@@ -24,4 +24,4 @@ This is the course project for the Getting and Cleaning Data Coursera course. Th
   
   12. From the above data set, creates a 2nd, independent tidy data set with the average of each variable for each activity and each subject.
 
-The end result is shown in the file tidydataset.txt.
+The end result is shown in the file "tidydataset.txt".
